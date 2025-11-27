@@ -9,7 +9,7 @@ import close_icon from "./close_icon.svg"
 import users_icon from "./users_icon.svg"
 import car_icon from "./car_icon.svg"
 import location_icon from "./location_icon.svg";
-import addIcon from "./AddIcon.svg";
+import addIcon from "./addIcon.svg";
 import addIconColored from "./addIconColored.svg";
 import fuel_icon from "./fuel_icon.svg";
 import carIcon from "./carIcon.svg";
